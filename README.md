@@ -9,7 +9,7 @@ A simple **Python-based project** designed to manage student records efficiently
 # View Students
 ![View Students](https://github.com/Jayesh-dev-glitch/Student-Management-System/blob/main/View%20Students.png)
 # Update Student Marks
-
+![Update Student Marks](https://github.com/Jayesh-dev-glitch/Student-Management-System/blob/main/Update%20Student%20Marks.png)
 
 
 ## 🚀 Features

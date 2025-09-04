@@ -4,7 +4,8 @@ A simple **Python-based project** designed to manage student records efficiently
 
 ---
 
-# Screenshot 1
+# Add Student
+![Add Student](https://github.com/Jayesh-dev-glitch/Student-Management-System/blob/main/Add%20Student.png)
 
 
 ## 🚀 Features

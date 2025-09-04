@@ -12,7 +12,8 @@ A simple **Python-based project** designed to manage student records efficiently
 ![Update Student Marks](https://github.com/Jayesh-dev-glitch/Student-Management-System/blob/main/Update%20Student%20Marks.png)
 # Delete Student
 ![Delete Student](https://github.com/Jayesh-dev-glitch/Student-Management-System/blob/main/Delete%20Student.png)
-
+# Exiting Program
+![Exit Program](https://github.com/Jayesh-dev-glitch/Student-Management-System/blob/main/Exiting%20Program.png)
 
 ## 🚀 Features
 
